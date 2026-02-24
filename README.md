@@ -1,7 +1,7 @@
 # 🦠 COVID-19 Dashboard
 
 A modern and interactive **COVID-19 Dashboard** built using **React + Tailwind CSS**.
-This application allows users to view **country-wise COVID statistics**, toggle between different views, and see a global summary — all in a clean, Responsive UI.
+This application allows users to view **country-wise COVID statistics**, toggle between different views, and see a global summary — all in a clean,  and very responsive UI.
 
 ---
 
